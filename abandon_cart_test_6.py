@@ -17,7 +17,7 @@ with open("C:/Users/edohner/Documents/python_test/activecampaign_api_config.json
     config = json.load(config_file)
 
 # Constants
-API_URL = 'https://lyricoperaofchicago.api-us1.com/api/3'
+API_URL = 'https://______________.api-us1.com/api/3'
 API_KEY = config.get('active_campaign_api_key')
 patron_id_custom_field_id = 4
 abandoned_cart_product_quantity_price_custom_field_id = 823
