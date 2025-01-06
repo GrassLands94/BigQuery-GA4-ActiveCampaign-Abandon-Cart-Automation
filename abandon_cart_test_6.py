@@ -29,7 +29,7 @@ client = bigquery.Client()
 # BigQuery Query
 query = """
     SELECT user_id, product_quantity_price
-    FROM loc-bigquery.analytics_314964580.abandoned_cart_user_ids
+    FROM _______________.abandoned_cart_user_ids
 """
 
 # Run the query
